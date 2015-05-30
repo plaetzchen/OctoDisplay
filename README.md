@@ -10,3 +10,7 @@ cd OctoDisplay
 pip install -r requirements.txt
 python octodisplay.py <addressofoctoprint> <API-Key>
 ````
+
+## Screenshot
+
+![The GUI of OctoDisplay](screenshot.png)
